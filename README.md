@@ -8,7 +8,7 @@ This repo holds a collection of Jupyter notebooks exploring different datasets. 
 
 **To get started:**
 
-1. Clone the repo: `git clone https://github.com/your_username/your_repo_name.git`
+1. Clone the repo: `git clone https://github.com/tunajn/jupyter-notebooks.git`
 2. Install required libraries (listed in each notebook).
 3. Open notebooks in Jupyter and run the cells.
 
